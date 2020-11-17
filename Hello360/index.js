@@ -7,7 +7,7 @@ export default class Hello360 extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-            Welcome to React 360 Black Technology Mentorship Attendees
+            Welcome to React 360 Black Technology Mentorship Attendees 2020
           </Text>
         </View>
       </View>
